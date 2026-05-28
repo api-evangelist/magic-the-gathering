@@ -1,0 +1,32 @@
+aid: magic-the-gathering
+name: Magic The Gathering
+description: "Magic The Gathering Game Information"
+url: http://magicthegathering.io/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: Magic The Gathering
+    description: "Magic The Gathering Game Information"
+    humanURL: http://magicthegathering.io/
+    baseURL: http://magicthegathering.io/
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: http://magicthegathering.io/
+common:
+  - type: Website
+    url: http://magicthegathering.io/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
