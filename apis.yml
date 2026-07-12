@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://magicthegathering.io/
 common:
+  - type: DomainSecurity
+    url: security/magic-the-gathering-domain-security.yml
   - type: Website
     url: http://magicthegathering.io/
   - type: PublicAPIsListing
